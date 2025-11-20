@@ -79,7 +79,7 @@ This project is designed to follow along with a video series that incrementally 
 Each step introduces a new concept, followed by hands-on implementation.
 
 > Start with the basics — end with production-ready RAG skills.
-
+https://www.youtube.com/watch?v=wd7TZ4w1mSw
 ---
 
 ## 🤝 Contributing

@@ -1,7 +1,4 @@
----
-
 # 📚 RAG From Scratch
-
 *A practical journey into Retrieval-Augmented Generation*
 
 ---
